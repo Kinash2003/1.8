@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  1.8.UnitTest.cpp
+D:\Lab-1\1.8\1.8\Payment.cpp(111,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+D:\Lab-1\1.8\1.8\Payment.cpp(115,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+D:\Lab-1\1.8\1.8.UnitTest\1.8.UnitTest.cpp(18,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека D:\Lab-1\1.8\Debug\1.8.UnitTest.lib и объект D:\Lab-1\1.8\Debug\1.8.UnitTest.exp
+  1.8.UnitTest.vcxproj -> D:\Lab-1\1.8\Debug\1.8.UnitTest.dll

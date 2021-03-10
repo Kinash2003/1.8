@@ -1,0 +1,6 @@
+﻿  1.8.cpp
+  Payment.cpp
+D:\Lab-1\1.8\1.8\Payment.cpp(111,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+D:\Lab-1\1.8\1.8\Payment.cpp(115,21): warning C4244: return: преобразование "double" в "long", возможна потеря данных
+  Создание кода...
+  1.8.vcxproj -> D:\Lab-1\1.8\Debug\1.8.exe
